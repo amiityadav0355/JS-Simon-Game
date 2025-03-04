@@ -46,7 +46,7 @@ function nextSequence() {
 function playSound(id){
   switch (id) {
     case "red":
-    var red = new Audio("sounds/red.mp3");
+    var red = new Audio("sounds/.red.mp3");
     red.play();
       break;
 
